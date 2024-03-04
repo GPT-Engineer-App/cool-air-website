@@ -21,7 +21,7 @@ const Index = () => {
 
           {/* Hero image */}
           <Box py={10} textAlign="center">
-            <Image src="https://images.unsplash.com/photo-1545259741-2ea3ebf61fa3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxhaXIlMjBjb25kaXRpb25pbmd8ZW58MHx8fHwxNzA5NTc4MjY0fDA&ixlib=rb-4.0.3&q=80&w=1080" borderRadius="md" />
+            <Image src="https://via.placeholder.com/1080" borderRadius="md" />
           </Box>
 
           {/* Services section */}
